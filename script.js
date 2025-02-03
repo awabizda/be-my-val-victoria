@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "No? Are you sure?",
-    "No? Please, my love.",
-    "No? Don't do this to me :(",
-    "No? You're breaking my heart...",
-    "No? I'm gonna cry...",
+    "No? Can you take a breath and then answer again",
+    "No? Is that no pronounced with a wink or smirk?",
+    "No? I feel like I'm getting mixed signals here.",
+    "No? Is that your final answer?",
+    "No? okay let's forget  the cheekiness...please be my val Vic.",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
